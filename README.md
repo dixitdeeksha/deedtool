@@ -5,7 +5,7 @@ Student Collaboration and Achievement Update Platform
 
 A brief description of what this project does and who it's for
 
-#Overview
+##Overview
 
 CollabAchieveConnect is a full-stack website development project aimed at addressing the challenges students face when searching for teammates for competitions and co-curricular activities. It provides a platform for students to connect, collaborate, and share information about events and competitions that can benefit others. The project utilizes HTML, CSS, MySQL, and PHP technologies to develop a comprehensive website.
 
